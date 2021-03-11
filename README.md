@@ -11,7 +11,7 @@ The font used is Liberation Mono. If you don't have this font, you can [download
 
 The spreadsheet is hereby released into the [public domain](https://github.com/cypnk/Lab-Notebook/blob/master/LICENSE). You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-Finished spreadsheet sample:  
+Lab sheet sample:  
 ![Spreadsheet view](https://raw.githubusercontent.com/cypnk/Lab-Notebook/master/screenshot_labsheet.png)
 
 Table of contents sample:  
