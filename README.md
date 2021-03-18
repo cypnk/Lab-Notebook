@@ -1,9 +1,9 @@
 # Lab Notebook
 Printable laboratory notebook.
 
-The original LibreOffice spreadsheet and exported PDFs ready to be printed are provided for convenience.
+The original LibreOffice spreadsheet and exported PDF [lab sheets](https://github.com/cypnk/Lab-Notebook/blob/master/LabNotebook-sheets.pdf) and [table of contents sheets](https://github.com/cypnk/Lab-Notebook/blob/master/LabNotebook-contents.pdf) ready to be printed are provided for convenience.
 
-The [lab sheets](https://github.com/cypnk/Lab-Notebook/blob/master/LabNotebook-sheets.pdf) are numbered up to 200. If you need fewer pages than this, select the print range from 1-20 or 1-30 etc... up to the number of sheets you need. If you need more than the provided 200 sheets, simply copy > paste the page grid into a neighboring cell of the spreadsheet, keeping the page numbers in the same order. The [table of contents sheets](https://github.com/cypnk/Lab-Notebook/blob/master/LabNotebook-contents.pdf) are numbered with Roman numerals up to 10.
+The lab sheets are numbered up to 200. If you need fewer pages than this, select the print range from 1-20 or 1-30 etc... up to the number of sheets you need. If you need more than the provided 200 sheets, simply copy > paste the page grid into a neighboring cell of the spreadsheet, keeping the page numbers in the same order. The table of contents sheets are numbered with Roman numerals up to 10.
 
 The page numbers alternate on the upper corners of each sheet on both the labs and table of contents so remember to collate appropriately when printing. Do a test print of a few pages before doing a full run.
 
